@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">Tourism</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_add_favourite">Add to Favourites</string>
+    <string name="action_play_next">Play Next</string>
+    <string name="backdrop_title">LOVE MUSICS</string>
+    <string name="backdrop_subtitle">This season top 20 music</string>
+
+    <string-array name="category">
+        <item>Any</item>
+        <item>Chittagong</item>
+        <item>Dhaka</item>
+        <item>Sylhet</item>
+        <item>Rajshahi</item>
+        <item>Khulna</item>
+        <item>Barishal</item>
+        <item>Mymensingh</item>
+        <item>Rangpur</item>
+
+
+    </string-array>
+
+
+    <string-array name="food_item">
+        <item>Any</item>
+        <item>Snacks</item>
+        <item>Lunch</item>
+        <item>Dinner</item>
+
+
+    </string-array>
+
+
+    <string-array name="view_list">
+        <item> Any</item>
+        <item>Sea</item>
+        <item>Hill</item>
+        <item>Forest</item>
+        <item>Lake</item>
+        <item>Waterfall</item>
+        <item>Swamp Forest</item>
+        <item>Historical Place</item>
+
+
+    </string-array>
+
+</resources>
